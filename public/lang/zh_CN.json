@@ -1,0 +1,122 @@
+{
+    "blockTooltip": {
+        "block": "方块",
+        "chunk": "区块",
+        "light": {
+            "block": "方块",
+            "light": "光源",
+            "sun": "太阳"
+        },
+        "position": "坐标",
+        "region": {
+            "file": "文件",
+            "region": "区域"
+        }
+    },
+    "compass": {
+        "tooltip": "罗盘 / 朝北"
+    },
+    "controls": {
+        "flatView": {
+            "button": "平视",
+            "tooltip": "正交视图 / 平坦视图"
+        },
+        "freeFlight": {
+            "button": "自由视野",
+            "tooltip": "自由视野 / 观察者模式"
+        },
+        "perspective": {
+            "button": "透视",
+            "tooltip": "透视视野"
+        },
+        "title": "视野 / 控制"
+    },
+    "debug": {
+        "button": "调试"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "反转鼠标 Y",
+        "mouseSensitivity": "鼠标灵敏度",
+        "title": "自由飞行控制"
+    },
+    "goFullscreen": {
+        "button": "全屏"
+    },
+    "info": {
+        "button": "信息",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>鼠标控制:</h2>\n\t<table>\n\t\t<tr><th>移动</th><td><kbd>左键</kbd> + 拖拽</td></tr>\n\t\t<tr><th>缩放</th><td><kbd>鼠标中键</kbd> (滚动)</td></tr>\n\t\t<tr><th>旋转 / 倾斜</th><td><kbd>右键</kbd> + 拖拽</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>键盘控制:</h2>\n\t<table>\n\t\t<tr><th>移动</th><td><kbd>wasd</kbd> / <kbd>方向键</kbd></td></tr>\n\t\t<tr><th>缩放</th><td>小键盘: <kbd>+</kbd>/<kbd>-</kbd> 或者 <kbd>Ins</kbd>/<kbd>Home</kbd></td></tr>\n\t\t<tr><th>旋转 / 倾斜</th><td><kbd>左-Alt</kbd> + <kbd>wasd</kbd> / <kbd>方向键</kbd> 或 <kbd>Delete</kbd>/<kbd>End</kbd>/<kbd>Page Up</kbd>/<kbd>Page Down</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>触屏控制:</h2>\n\t<table>\n\t\t<tr><th>移动</th><td>触屏 + 拖拽</td></tr>\n\t\t<tr><th>缩放</th><td>双指触屏 + 滑动</td></tr>\n\t\t<tr><th>旋转 / 倾斜</th><td>双指触屏 + 旋转 / 向上滑动 / 向下滑动</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\t本地图用 &#9829 制作，使用了 <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version} 程序。\n</p>\n",
+        "title": "信息"
+    },
+    "language": {
+        "title": "语言"
+    },
+    "lighting": {
+        "ambientLight": "环境光",
+        "dayNightSwitch": {
+            "tooltip": "昼/夜"
+        },
+        "sunlight": "日光",
+        "title": "光照"
+    },
+    "maps": {
+        "button": "地图",
+        "title": "地图",
+        "tooltip": "地图列表"
+    },
+    "markers": {
+        "button": "标记",
+        "followPlayerTitle": "跟随玩家",
+        "marker": "标记 | 标记列表",
+        "markerSet": "标记集 | 标记集",
+        "searchPlaceholder": "搜索...",
+        "title": "标记",
+        "tooltip": "标记列表"
+    },
+    "menu": {
+        "title": "菜单",
+        "tooltip": "打开菜单"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "玩家",
+        "tooltip": "玩家列表"
+    },
+    "renderDistance": {
+        "hiresLayer": "高分辨率",
+        "lowersLayer": "低分辨率",
+        "title": "渲染距离"
+    },
+    "resetAllSettings": {
+        "button": "重置所有设置"
+    },
+    "resetCamera": {
+        "button": "重置镜头",
+        "tooltip": "重置镜头 & 位置"
+    },
+    "resolution": {
+        "high": "高（SSAA x2）",
+        "low": "低（粗糙 x0.5）",
+        "normal": "普通（默认 x1）",
+        "title": "抗锯齿"
+    },
+    "screenshot": {
+        "button": "截图",
+        "clipboard": "复制到剪贴板",
+        "title": "截图"
+    },
+    "settings": {
+        "button": "打开设置",
+        "title": "设置"
+    },
+    "theme": {
+        "contrast": "高对比模式",
+        "dark": "深色模式",
+        "default": "默认（系统/浏览器）",
+        "light": "浅色模式",
+        "title": "主题"
+    },
+    "updateMap": {
+        "button": "更新地图",
+        "tooltip": "清除方块缓存"
+    }
+}

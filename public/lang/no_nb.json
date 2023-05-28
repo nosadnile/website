@@ -1,0 +1,123 @@
+{
+    "blockTooltip": {
+        "block": "Blokk",
+        "chunk": "Bit",
+        "light": {
+            "block": "Blokk",
+            "light": "Lys",
+            "sun": "Sol"
+        },
+        "position": "Posisjon",
+        "region": {
+            "file": "Fil",
+            "region": "Region"
+        }
+    },
+    "compass": {
+        "tooltip": "Kompass / Pek nord"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Flat",
+            "tooltip": "Ortografisk / Flatvisning"
+        },
+        "freeFlight": {
+            "button": "Friflyvning",
+            "tooltip": "Friflyvning / Tilskuermodus"
+        },
+        "perspective": {
+            "button": "Perspektiv",
+            "tooltip": "Perpektivvisning"
+        },
+        "title": "Visning / Kontroller"
+    },
+    "debug": {
+        "button": "Feilsøk"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Snu mus Y",
+        "mouseSensitivity": "Mussensitivitet",
+        "title": "Friflyvningskontroller"
+    },
+    "goFullscreen": {
+        "button": "Fullskjerm"
+    },
+    "info": {
+        "button": "Informasjon",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Mouse-Controls:</h2>\n\t<table>\n\t\t<tr><th>move</th><td><kbd>left-click</kbd> + drag</td></tr>\n\t\t<tr><th>zoom</th><td><kbd>mousewheel</kbd> (scroll)</td></tr>\n\t\t<tr><th>rotate / tilt</th><td><kbd>right-click</kbd> + drag</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Keyboard-Controls:</h2>\n\t<table>\n\t\t<tr><th>move</th><td><kbd>wasd</kbd> / <kbd>arrow-keys</kbd></td></tr>\n\t\t<tr><th>zoom</th><td>Numpad: <kbd>+</kbd>/<kbd>-</kbd> or <kbd>Ins</kbd>/<kbd>Home</kbd></td></tr>\n\t\t<tr><th>rotate / tilt</th><td><kbd>Left-Alt</kbd> + <kbd>wasd</kbd> / <kbd>arrow-keys</kbd> or <kbd>Delete</kbd>/<kbd>End</kbd>/<kbd>Page Up</kbd>/<kbd>Page Down</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Touch-Controls:</h2>\n\t<table>\n\t\t<tr><th>move</th><td>touch + drag</td></tr>\n\t\t<tr><th>zoom</th><td>touch with two fingers + pinch</td></tr>\n\t\t<tr><th>rotate / tilt</th><td>touch with two fingers + rotate / move up/down</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p>\n\tThis map has been generated with &#9829; using <a href=\"https://bluecolo.red/bluemap\">BlueMap</a>.\n</p>\n",
+        "title": "Informasjon"
+    },
+    "language": {
+        "title": "Språk"
+    },
+    "lighting": {
+        "ambientLight": "Bakgrunnsbelysning",
+        "dayNightSwitch": {
+            "tooltip": "Dag/natt"
+        },
+        "sunlight": "Sollys",
+        "title": "Belysning"
+    },
+    "maps": {
+        "button": "Kart",
+        "title": "Kart",
+        "tooltip": "Kartliste"
+    },
+    "markers": {
+        "button": "Markører",
+        "followPlayerTitle": "Følg spiller",
+        "marker": "markør | markører",
+        "markerSet": "markørsett | markørsett",
+        "searchPlaceholder": "Søk...",
+        "title": "Markører",
+        "tooltip": "Markørliste"
+    },
+    "menu": {
+        "title": "Meny",
+        "tooltip": "Meny"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Spillere",
+        "tooltip": "Spillerliste"
+    },
+    "renderDistance": {
+        "hiresLayer": "Høyoppløsningslag",
+        "loadHiresWhileMoving": "Last inn høyoppløsning under bevegelse",
+        "lowersLayer": "Lavoppløsningslag",
+        "off": "Av",
+        "title": "Innlastningsavstand"
+    },
+    "resetAllSettings": {
+        "button": "Tilbakestill alle innstillinger"
+    },
+    "resetCamera": {
+        "button": "Tilbakestill kamera",
+        "tooltip": "Tilbakestill kamera og posisjon"
+    },
+    "resolution": {
+        "high": "Høy (SSAA x2)",
+        "low": "Lav (Oppskalert x0.5)",
+        "normal": "Normal (Opprinnelig oppløsning x1)",
+        "title": "Oppløsning"
+    },
+    "screenshot": {
+        "button": "Ta skjermbilde",
+        "clipboard": "Kopier til utklippstavle",
+        "title": "Skjermbilde"
+    },
+    "settings": {
+        "button": "Innstillinger",
+        "title": "Innstillinger"
+    },
+    "theme": {
+        "dark": "Mørk",
+        "default": "Standard (System/Nettleser)",
+        "light": "Lys",
+        "title": "Tema"
+    },
+    "updateMap": {
+        "button": "Oppdater kart",
+        "tooltip": "Slett rutebuffer"
+    }
+}

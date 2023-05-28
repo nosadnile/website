@@ -1,0 +1,116 @@
+{
+    "blockTooltip": {
+        "block": "Blok",
+        "chunk": "Chunk",
+        "light": {
+            "block": "Blok",
+            "light": "Licht",
+            "sun": "Zon"
+        },
+        "position": "Positie",
+        "region": {
+            "file": "Datum",
+            "region": "Regio"
+        }
+    },
+    "compass": {
+        "tooltip": "Kompas / Naar het noorden richten"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Plat",
+            "tooltip": "Orthografisch / Plat aanzicht"
+        },
+        "freeFlight": {
+            "button": "Vrije vlucht",
+            "tooltip": "Vrije vlucht / Toeschouwersmodus"
+        },
+        "perspective": {
+            "button": "Perspectief",
+            "tooltip": "Perspectief aanzicht"
+        },
+        "title": "Aanzicht / Besturing"
+    },
+    "debug": {
+        "button": "Debug"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Muis Y omdraaien",
+        "mouseSensitivity": "Muis gevoeligheid",
+        "title": "Vrije camera"
+    },
+    "goFullscreen": {
+        "button": "Volledig scherm modus"
+    },
+    "info": {
+        "button": "Info",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Muisbediening:</h2>\n\t<table>\n\t\t<tr><th>Bewegen</th><td><kbd>Linkerklik</kbd> + slepen</td></tr>\n\t\t<tr><th>Zoomen</th><td><kbd>Muiswiel</kbd> (scrollen)</td></tr>\n\t\t<tr><th>Draaien / Kantelen</th><td><kbd>Rechterklik</kbd> + slepen</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Toetsenbordbediening:</h2>\n\t<table>\n\t\t<tr><th>Bewegen</th><td><kbd>wasd</kbd> / <kbd>Pijltjestoetsen</kbd></td></tr>\n\t\t<tr><th>Zoomen</th><td>Numeriek toetsenbord: <kbd>+</kbd>/<kbd>-</kbd> of <kbd>Ins</kbd>/<kbd>Home</kbd></td></tr>\n\t\t<tr><th>Draaien / Kantelen</th><td><kbd>Alt</kbd> + <kbd>wasd</kbd> / <kbd>Pijltjestoetsen</kbd> of <kbd>Delete</kbd>/<kbd>End</kbd>/<kbd>Page Up</kbd>/<kbd>Page Down</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Aanraakbediening:</h2>\n\t<table>\n\t\t<tr><th>Bewegen</th><td>Aanraken + vegen</td></tr>\n\t\t<tr><th>Zoomen</th><td>Met twee vingers aanraken + knijpen</td></tr>\n\t\t<tr><th>Draaien / Kantelen</th><td>Met twee vingers aanraken + draaien / naar boven/onder slepen</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\tDeze kaart is met &#9829; door <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version} gegenereerd\n</p>\n",
+        "title": "Info"
+    },
+    "language": {
+        "title": "Taal"
+    },
+    "lighting": {
+        "ambientLight": "Omgevingslicht",
+        "dayNightSwitch": {
+            "tooltip": "Dag/Nacht"
+        },
+        "sunlight": "Zonlicht",
+        "title": "Belichting"
+    },
+    "maps": {
+        "button": "Kaarten",
+        "title": "Kaarten",
+        "tooltip": "Kaartenlijst"
+    },
+    "markers": {
+        "button": "Markers",
+        "followPlayerTitle": "Volg Speler",
+        "marker": "marker | markers",
+        "markerSet": "Markerset | Markersets",
+        "searchPlaceholder": "Zoek...",
+        "title": "Markers",
+        "tooltip": "Markerlijst"
+    },
+    "menu": {
+        "title": "Menu",
+        "tooltip": "Menu"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Spelers",
+        "tooltip": "Spelerlijst"
+    },
+    "renderDistance": {
+        "hiresLayer": "Hires-Laag",
+        "lowersLayer": "Lowres-Laag",
+        "title": "Renderafstand"
+    },
+    "resetAllSettings": {
+        "button": "Instellingen terugzetten"
+    },
+    "resetCamera": {
+        "button": "Camera terugzetten",
+        "tooltip": "Camera & Positie terugzetten"
+    },
+    "resolution": {
+        "high": "Hoog (SSAA x2)",
+        "low": "Laag (Opgeschaald x0.5)",
+        "normal": "Normaal (Standaard x1)",
+        "title": "Resolutie"
+    },
+    "settings": {
+        "button": "Instellingen",
+        "title": "Instellingen"
+    },
+    "theme": {
+        "dark": "Donker",
+        "default": "Standaard (Systeem/Browser)",
+        "light": "Licht",
+        "title": "Kleurmodus"
+    },
+    "updateMap": {
+        "button": "Kaart verversen",
+        "tooltip": "Leeg de kaarten-cache"
+    }
+}

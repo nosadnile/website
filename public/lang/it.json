@@ -1,0 +1,114 @@
+{
+    "blockTooltip": {
+        "block": "Blocco",
+        "chunk": "Chunk",
+        "light": {
+            "block": "Blocco",
+            "light": "Luminosita",
+            "sun": "Sole"
+        },
+        "position": "Posizione",
+        "region": {
+            "file": "File",
+            "region": "Regione"
+        }
+    },
+    "compass": {
+        "tooltip": "Compasso / Verso Nord"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Piatta",
+            "tooltip": "Ortografica / Visuale-Piatta"
+        },
+        "freeFlight": {
+            "button": "Free-Flight",
+            "tooltip": "Free-Flight / Modalita Spettatore"
+        },
+        "perspective": {
+            "button": "Prospettiva",
+            "tooltip": "Visuale-Prospettiva"
+        },
+        "title": "Visuale / Controlli"
+    },
+    "debug": {
+        "button": "Debug"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Inverti Y Del Mouse",
+        "mouseSensitivity": "Sensitivita-Mouse",
+        "title": "Controlli Free-Flight"
+    },
+    "goFullscreen": {
+        "button": "Metti Lo Schermo Pieno"
+    },
+    "info": {
+        "button": "Informazioni",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Controlli-Mouse:</h2>\n\t<table>\n\t\t<tr><th>movimento</th><td><kbd>tasto-sinistro</kbd> + scorrimento</td></tr>\n\t\t<tr><th>zoom</th><td><kbd>rotellina</kbd> (scroll)</td></tr>\n\t\t<tr><th>rotazione / inclinazione</th><td><kbd>tasto-destro</kbd> + scorrimento</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Controlli-Tastiera:</h2>\n\t<table>\n\t\t<tr><th>movimento</th><td><kbd>wasd</kbd> / <kbd>tasti-direzionali</kbd></td></tr>\n\t\t<tr><th>zoom</th><td>Numpad: <kbd>+</kbd>/<kbd>-</kbd> or <kbd>Ins</kbd>/<kbd>Home</kbd></td></tr>\n\t\t<tr><th>rotazione / inclinazione</th><td><kbd>Alt-Sinistro</kbd> + <kbd>wasd</kbd> / <kbd>tasti-direzionali</kbd> or <kbd>Rimuovi</kbd>/<kbd>End</kbd>/<kbd>Pagina Su</kbd>/<kbd>Pagina Giu</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Touch-Controls:</h2>\n\t<table>\n\t\t<tr><th>movimento</th><td>tocco + scorrimento</td></tr>\n\t\t<tr><th>zoom</th><td>tocco con due dita + pizzico</td></tr>\n\t\t<tr><th>rotazione / inclinazione</th><td>tocco con due dita + rotazione / muovi in alto/basso</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\tQuesta mappa e' stata generata con &#9829; usando <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version}\n</p>\n",
+        "title": "Informazioni"
+    },
+    "language": {
+        "title": "Lingua"
+    },
+    "lighting": {
+        "ambientLight": "Luce-Ambientale",
+        "dayNightSwitch": {
+            "tooltip": "Giorno/Notte"
+        },
+        "sunlight": "Luce",
+        "title": "Illuminazione"
+    },
+    "maps": {
+        "button": "Mappe",
+        "title": "Mappe",
+        "tooltip": "Map-List"
+    },
+    "markers": {
+        "button": "Marcatori",
+        "marker": "marcatore | marcatori",
+        "markerSet": "set-di-marcatori | sets-di-marcatori",
+        "title": "Marcatori",
+        "tooltip": "Lista-Marcatori"
+    },
+    "menu": {
+        "title": "Menu",
+        "tooltip": "Menu"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Giocatori",
+        "tooltip": "Lista-Giocatori"
+    },
+    "renderDistance": {
+        "hiresLayer": "Layer Alta Risoluzione",
+        "lowersLayer": "Layer Bassa Risoluzione",
+        "title": "Distanza Rendering"
+    },
+    "resetAllSettings": {
+        "button": "Ripristina Impostazioni"
+    },
+    "resetCamera": {
+        "button": "Resetta La Telecamera",
+        "tooltip": "Resetta La Telecamera E La Posizione"
+    },
+    "resolution": {
+        "high": "Alta (SSAA x2)",
+        "low": "Bassa (Upscaling x0.5)",
+        "normal": "Normale (Nativa x1)",
+        "title": "Risoluzione"
+    },
+    "settings": {
+        "button": "Impostazioni",
+        "title": "Impostazioni"
+    },
+    "theme": {
+        "dark": "Scuro",
+        "default": "Default (Sistema/Browser)",
+        "light": "Chiaro",
+        "title": "Tema"
+    },
+    "updateMap": {
+        "button": "Aggiorna Mappa",
+        "tooltip": "Pulisci La Chace Delle Caselle"
+    }
+}

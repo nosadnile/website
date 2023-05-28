@@ -1,0 +1,116 @@
+{
+    "blockTooltip": {
+        "block": "Block",
+        "chunk": "Chunk",
+        "light": {
+            "block": "Block",
+            "light": "Ljus",
+            "sun": "Sol"
+        },
+        "position": "Placera",
+        "region": {
+            "file": "Fil",
+            "region": "Område"
+        }
+    },
+    "compass": {
+        "tooltip": "Kompass / Vänd mot norr"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Platt",
+            "tooltip": "Ortografisk / platt vy"
+        },
+        "freeFlight": {
+            "button": "Fritt flyg",
+            "tooltip": "Fritt flyg / Åskådarläge"
+        },
+        "perspective": {
+            "button": "Perspective",
+            "tooltip": "Perspektiv-vy"
+        },
+        "title": "Visa / kontroller"
+    },
+    "debug": {
+        "button": "Felsökning"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Invertera mus Y",
+        "mouseSensitivity": "Muskänslighet",
+        "title": "Kontroller för fritt flyg"
+    },
+    "goFullscreen": {
+        "button": "Sätt på helskärm"
+    },
+    "info": {
+        "button": "Info",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Muskontroller:</h2>\n\t<table>\n\t\t<tr><th>Styra</th><td><kbd>vänster klick</kbd> + dra</td></tr>\n\t\t<tr><th>zoom</th><td><kbd>mushjul</kbd> (scroll)</td></tr>\n\t\t<tr><th>rotera / luta</th><td><kbd>Höger klick</kbd> + dra</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Tangentbordskontroller:</h2>\n\t<table>\n\t\t<tr><th>Styra</th><td><kbd>wasd</kbd> / <kbd>piltangenter</kbd></td></tr>\n\t\t<tr><th>zoom</th><td><kbd>+</kbd>/<kbd>-</kbd> eller <kbd>Ins</kbd>/<kbd>Home</kbd></td></tr>\n\t\t<tr><th>rotera / luta</th><td><kbd>Vänster-Alt</kbd> + <kbd>wasd</kbd> / <kbd>piltangenter</kbd> eller <kbd>Delete</kbd>/<kbd>End</kbd>/<kbd>Page Up</kbd>/<kbd>Page Down</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Pekkontroller:</h2>\n\t<table>\n\t\t<tr><th>Styra</th><td>rör + dra</td></tr>\n\t\t<tr><th>zoom</th><td>rör med två fingrar + nypa</td></tr>\n\t\t<tr><th>rotera / luta</th><td>rör med två fingrar + rotera / flytta upp / ner</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\tDenna karta har blivit genererad med &#9829; med hjälp av <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version}\n</p>\n",
+        "title": "Info"
+    },
+    "language": {
+        "title": "Språk"
+    },
+    "lighting": {
+        "ambientLight": "Ljussättning",
+        "dayNightSwitch": {
+            "tooltip": "Dag/Natt"
+        },
+        "sunlight": "Solljus",
+        "title": "Ljus"
+    },
+    "maps": {
+        "button": "Kartor",
+        "title": "Kartor",
+        "tooltip": "Kart lista"
+    },
+    "markers": {
+        "button": "Markörer",
+        "followPlayerTitle": "Följ spelare",
+        "marker": "Markör | Markörer",
+        "markerSet": "Placera markör | Palcera markör",
+        "searchPlaceholder": "Sök...",
+        "title": "Markörer",
+        "tooltip": "Markör lista"
+    },
+    "menu": {
+        "title": "Meny",
+        "tooltip": "Meny"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Spelare",
+        "tooltip": "Spelare lista"
+    },
+    "renderDistance": {
+        "hiresLayer": "Hög upplösnings lager",
+        "lowersLayer": "Låg upplösnings lager",
+        "title": "Renderings avstånd"
+    },
+    "resetAllSettings": {
+        "button": "Återställ alla inställningar"
+    },
+    "resetCamera": {
+        "button": "Återställ kamera",
+        "tooltip": "Återställ kamera och position"
+    },
+    "resolution": {
+        "high": "Hög (SSAA x2)",
+        "low": "låg (Uppskalning x0.5)",
+        "normal": "Normal (Ursprunglig x1)",
+        "title": "Upplösning"
+    },
+    "settings": {
+        "button": "Inställningar",
+        "title": "Inställningar"
+    },
+    "theme": {
+        "dark": "Mörkt",
+        "default": "Standard (System/Webläsare)",
+        "light": "Ljust",
+        "title": "Teman"
+    },
+    "updateMap": {
+        "button": "Uppdatera karta",
+        "tooltip": "Rensa cacheminne"
+    }
+}

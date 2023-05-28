@@ -1,0 +1,116 @@
+{
+    "blockTooltip": {
+        "block": "블록",
+        "chunk": "청크",
+        "light": {
+            "block": "블럭",
+            "light": "광원",
+            "sun": "자연"
+        },
+        "position": "위치",
+        "region": {
+            "file": "파일",
+            "region": "지역"
+        }
+    },
+    "compass": {
+        "tooltip": "나침반 / 북쪽 보기"
+    },
+    "controls": {
+        "flatView": {
+            "button": "평면",
+            "tooltip": "직각투영 / 평면으로 보기"
+        },
+        "freeFlight": {
+            "button": "자유 이동",
+            "tooltip": "자유 이동 / 관전모드로 보기"
+        },
+        "perspective": {
+            "button": "투시",
+            "tooltip": "투시로 보기"
+        },
+        "title": "시점 / 컨트롤"
+    },
+    "debug": {
+        "button": "디버그"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "마우스 Y축 반전",
+        "mouseSensitivity": "마우스 감도",
+        "title": "자유 이동 조작"
+    },
+    "goFullscreen": {
+        "button": "전체화면"
+    },
+    "info": {
+        "button": "정보",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>마우스 조작:</h2>\n\t<table>\n\t\t<tr><th>이동</th><td><kbd>좌클릭</kbd> + 끌기</td></tr>\n\t\t<tr><th>확대</th><td><kbd>마우스 휠</kbd> (스크롤)</td></tr>\n\t\t<tr><th>회전 / 기울이기</th><td><kbd>우클릭</kbd> + 끌기</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>키보드 조작:</h2>\n\t<table>\n\t\t<tr><th>이동</th><td><kbd>wasd</kbd> / <kbd>화살표 키</kbd></td></tr>\n\t\t<tr><th>확대</th><td>넘버패드: <kbd>+</kbd>/<kbd>-</kbd> 또는 <kbd>Ins</kbd>/<kbd>Home</kbd></td></tr>\n\t\t<tr><th>회전 / 기울이기</th><td><kbd>왼쪽 Alt</kbd> + <kbd>wasd</kbd> / <kbd>화살표 키</kbd> 또는 <kbd>Delete</kbd>/<kbd>End</kbd>/<kbd>Page Up</kbd>/<kbd>Page Down</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>터치 조작:</h2>\n\t<table>\n\t\t<tr><th>이동</th><td>터치 + 끌기</td></tr>\n\t\t<tr><th>확대</th><td>두 손가락으로 터치 + 꼬집기</td></tr>\n\t\t<tr><th>회전 / 기울이기</th><td>두 손가락으로 터치 + 회전 / 위/아래로 끌기</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\t이 지도는 &#9829; <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version} 을 이용해 제작되었습니다\n</p>\n",
+        "title": "정보"
+    },
+    "language": {
+        "title": "언어"
+    },
+    "lighting": {
+        "ambientLight": "주변광",
+        "dayNightSwitch": {
+            "tooltip": "밤/낮 전환"
+        },
+        "sunlight": "자연광",
+        "title": "광원"
+    },
+    "maps": {
+        "button": "월드",
+        "title": "월드",
+        "tooltip": "월드 목록"
+    },
+    "markers": {
+        "button": "마커",
+        "followPlayerTitle": "플레이어 따라가기",
+        "marker": "개의 마커",
+        "markerSet": "마커 목록 | 마커 목록",
+        "searchPlaceholder": "검색...",
+        "title": "마커",
+        "tooltip": "마커 목록"
+    },
+    "menu": {
+        "title": "메뉴",
+        "tooltip": "메뉴"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "플레이어",
+        "tooltip": "플레이어 목록"
+    },
+    "renderDistance": {
+        "hiresLayer": "고해상도 레이어",
+        "lowersLayer": "저해상도 레이어",
+        "title": "렌더 거리"
+    },
+    "resetAllSettings": {
+        "button": "설정값 재설정"
+    },
+    "resetCamera": {
+        "button": "카메라 위치 초기화",
+        "tooltip": "카메라의 위치를 초기화합니다."
+    },
+    "resolution": {
+        "high": "높음 (SSAA x2)",
+        "low": "낮음 (Upscaling x0.5)",
+        "normal": "보통 (Native x1)",
+        "title": "해상도"
+    },
+    "settings": {
+        "button": "설정",
+        "title": "설정"
+    },
+    "theme": {
+        "dark": "Dark",
+        "default": "기본값 (시스템/브라우저)",
+        "light": "Light",
+        "title": "테마"
+    },
+    "updateMap": {
+        "button": "맵 정보 갱신",
+        "tooltip": "맵 타일 캐시를 삭제합니다."
+    }
+}

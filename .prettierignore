@@ -1,0 +1,27 @@
+# Folders
+/dist
+/coverage
+/node_modules
+
+dist/
+node_modules/
+
+# Package manager lock files
+pnpm-lock.yaml
+
+# Other files
+LICENSE
+*.md
+*.png
+*.jpg
+*.gif
+*.ogg
+*.jpeg
+*.glsl
+*.frag
+*.vert
+target
+*.rs
+pkg
+
+.nuxt

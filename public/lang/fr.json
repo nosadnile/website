@@ -1,0 +1,141 @@
+{
+    "blockTooltip": {
+        "block": "Bloc",
+        "chunk": "Chunk",
+        "light": {
+            "block": "Bloc",
+            "light": "Lumière",
+            "sun": "Soleil"
+        },
+        "position": "Position",
+        "region": {
+            "file": "Fichier",
+            "region": "Région"
+        }
+    },
+    "compass": {
+        "tooltip": "Boussole / Pointe le Nord"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Plate",
+            "tooltip": "Orthographique / Vue Plate"
+        },
+        "freeFlight": {
+            "button": "Vol Libre",
+            "tooltip": "Vol Libre / Mode Spectateur"
+        },
+        "perspective": {
+            "button": "Perspective",
+            "tooltip": "Vue en Perspective"
+        },
+        "title": "Vue / Contrôles"
+    },
+    "debug": {
+        "button": "Debug"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Inverser l'Y de la Souris",
+        "mouseSensitivity": "Sensibilité de la Souris",
+        "title": "Contrôles du Vol Libre"
+    },
+    "goFullscreen": {
+        "button": "Plein Écran"
+    },
+    "info": {
+        "button": "Info",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Contrôles de la Souris :</h2>\n\t<table>\n\t\t<tr><th>déplacement</th><td><kbd>clic-gauche</kbd> + mouvement</td></tr>\n\t\t<tr><th>zoom</th><td><kbd>molette</kbd> (scroll)</td></tr>\n\t\t<tr><th>rotation / inclinaison</th><td><kbd>clic-droit</kbd> + mouvement</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Contrôles du Clavier :</h2>\n\t<table>\n\t\t<tr><th>déplacement</th><td><kbd>zqsd</kbd> / <kbd>flèches</kbd></td></tr>\n\t\t<tr><th>zoom</th><td>Pavé Numérique : <kbd>+</kbd>/<kbd>-</kbd> ou <kbd>Inser</kbd>/<kbd>Début</kbd></td></tr>\n\t\t<tr><th>rotation / inclinaison</th><td><kbd>Alt-Gauche</kbd> + <kbd>zqsd</kbd> / <kbd>flèches</kbd> ou <kbd>Suppr</kbd>/<kbd>Fin</kbd>/<kbd>Page Up</kbd>/<kbd>Page Down</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Contrôles du Toucher :</h2>\n\t<table>\n\t\t<tr><th>déplacement</th><td>toucher + mouvement</td></tr>\n\t\t<tr><th>zoom</th><td>toucher avec 2 doigts + pincement</td></tr>\n\t\t<tr><th>rotation / inclinaison</th><td>toucher avec 2 doigts + rotation / haut/bas</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\tCette carte a été générée avec &#9829; par <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version}\n</p>\n",
+        "title": "Info"
+    },
+    "language": {
+        "title": "Langue"
+    },
+    "lighting": {
+        "ambientLight": "Lumière Ambiante",
+        "dayNightSwitch": {
+            "tooltip": "Jour/Nuit"
+        },
+        "sunlight": "Soleil",
+        "title": "Lumière"
+    },
+    "map": {
+        "errored": "Il y a eu une erreur lors du chargement de la carte !",
+        "loading": "Chargement de la carte...",
+        "unloaded": "Pas de carte chargée."
+    },
+    "mapControls": {
+        "showZoomButtons": "Montrer les Boutons de Zoom",
+        "title": "Contrôles de la Carte"
+    },
+    "maps": {
+        "button": "Cartes",
+        "title": "Cartes",
+        "tooltip": "Liste des cartes"
+    },
+    "markers": {
+        "button": "Balises",
+        "followPlayerTitle": "Suivre ce Joueur",
+        "marker": "balises | balises",
+        "markerSet": "Collection de balises | Collections de balises",
+        "searchPlaceholder": "Rechercher...",
+        "sort": {
+            "by": {
+                "default": "défaut",
+                "distance": "distance",
+                "label": "nom"
+            },
+            "title": "Trier par"
+        },
+        "title": "Balises",
+        "tooltip": "Liste des balises"
+    },
+    "menu": {
+        "title": "Menu",
+        "tooltip": "Menu"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Joueurs",
+        "tooltip": "Liste des Joueurs"
+    },
+    "renderDistance": {
+        "hiresLayer": "Couche haute définition",
+        "loadHiresWhileMoving": "Charger la haute définition en bougeant",
+        "lowersLayer": "Couche basse définition",
+        "off": "Désactivé",
+        "title": "Distance de rendu"
+    },
+    "resetAllSettings": {
+        "button": "Réinitialiser tous les Paramètres"
+    },
+    "resetCamera": {
+        "button": "Réinitialiser la Caméra",
+        "tooltip": "Réinitialiser la Caméra et la Position"
+    },
+    "resolution": {
+        "high": "Haute (SSAA x2)",
+        "low": "Basse (Upscaling x0.5)",
+        "normal": "Normale (Native x1)",
+        "title": "Résolution"
+    },
+    "screenshot": {
+        "button": "Prendre une Capture d'écran",
+        "clipboard": "Copier la Capture",
+        "title": "Capture d'écran"
+    },
+    "settings": {
+        "button": "Paramètres",
+        "title": "Paramètres"
+    },
+    "theme": {
+        "contrast": "Contrasté",
+        "dark": "Sombre",
+        "default": "Par Défaut (Système/Navigateur)",
+        "light": "Clair",
+        "title": "Thème"
+    },
+    "updateMap": {
+        "button": "Mettre à jour la Carte",
+        "tooltip": "Nettoyer le Cache des Tuiles"
+    }
+}

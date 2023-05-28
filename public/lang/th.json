@@ -1,0 +1,141 @@
+{
+    "blockTooltip": {
+        "block": "บล็อก",
+        "chunk": "ชังก์",
+        "light": {
+            "block": "บล็อก",
+            "light": "แสงสว่าง",
+            "sun": "ดวงอาทิตย์"
+        },
+        "position": "ตำแหน่ง",
+        "region": {
+            "file": "ไฟล์",
+            "region": "กลุ่มชังก์"
+        }
+    },
+    "compass": {
+        "tooltip": "เข็มทิศ / หันหน้าไปทางทิศเหนือ"
+    },
+    "controls": {
+        "flatView": {
+            "button": "แบน",
+            "tooltip": "ออร์โธกราฟิก / มุมมองแบน"
+        },
+        "freeFlight": {
+            "button": "บินอิสระ",
+            "tooltip": "บินอิสระ / โหมดผู้ชม"
+        },
+        "perspective": {
+            "button": "มุมมอง",
+            "tooltip": "มุมมอง"
+        },
+        "title": "ดู / ควบคุม"
+    },
+    "debug": {
+        "button": "ดีบัก"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "กลับเมาส์แกน Y",
+        "mouseSensitivity": "ความไวของเมาส์",
+        "title": "การควบคุมการบินอิสระ"
+    },
+    "goFullscreen": {
+        "button": "ไปแบบเต็มหน้าจอ"
+    },
+    "info": {
+        "button": "ข้อมูล",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>การควบคุมเมาส์:</h2>\n\t<table>\n\t\t<tr><th>เคลื่อนไหว</th><td><kbd>คลิกซำย</kbd> + ลาก</td></tr>\n\t\t<tr><th>ซูม</th><td><kbd>ลูกกลิ้งเมาส์</kbd> (เหลื่อน)</td></tr>\n\t\t<tr><th>หมุน / เอียง</th><td><kbd>คลิกขวา</kbd> + ลาก</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>แป้นพิมพ์ควบคุม:</h2>\n\t<table>\n\t\t<tr><th>เคลื่อนไหว</th><td><kbd>wasd</kbd> / <kbd>ปุ่มลูกศร</kbd></td></tr>\n\t\t<tr><th>ซูม</th><td>แป้นตัวเลข: <kbd>+</kbd>/<kbd>-</kbd> หรือ <kbd>Ins</kbd>/<kbd>Home</kbd></td></tr>\n\t\t<tr><th>หมุน / เอียง</th><td><kbd>Alt ซ้าย</kbd> + <kbd>wasd</kbd> / <kbd>ปุ่มลูกศร</kbd> หรือ <kbd>Delete</kbd>/<kbd>End</kbd>/<kbd>Page Up</kbd>/<kbd>Page Down</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>สัมผัสหน้าจอควบคุม:</h2>\n\t<table>\n\t\t<tr><th>เคลื่อนไหว</th><td>แตะ + ลาก</td></tr>\n\t\t<tr><th>ซูม</th><td>แตะด้วยสองนิ้ว + หยิก</td></tr>\n\t\t<tr><th>หมุน / เอียง</th><td>สัมผัสด้วยสองนิ้ว + หมุน / เลื่อนขึ้น / ลง</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\tแผนที่นี้ถูกสร้างขึ้นด้วย &#9829; <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version}\n</p>\n",
+        "title": "ข้อมูล"
+    },
+    "language": {
+        "title": "ภาษา"
+    },
+    "lighting": {
+        "ambientLight": "แสงบรรยกาศ",
+        "dayNightSwitch": {
+            "tooltip": "กลางวัน/กลางคืน"
+        },
+        "sunlight": "แสงแดด",
+        "title": "แสง"
+    },
+    "map": {
+        "errored": "เกิดข้อผิดพลาดในขณะโหลดแผนที่",
+        "loading": "กำลังโหลดแผนที่...",
+        "unloaded": "ไม่มีแผนที่โหลด"
+    },
+    "mapControls": {
+        "showZoomButtons": "แสดงปุ่มซูม",
+        "title": "การควบคุมแผนที่"
+    },
+    "maps": {
+        "button": "แผนที่",
+        "title": "แผนที่",
+        "tooltip": "รายชื่อ-แผนที่"
+    },
+    "markers": {
+        "button": "จุดมาร์ค",
+        "followPlayerTitle": "ติดตามผู้เล่น",
+        "marker": "จุดมาร์ค | จุดมาร์ค",
+        "markerSet": "ตั้งจุดมาร์ค | ตั้งจุดมาร์ค",
+        "searchPlaceholder": "ค้นหา...",
+        "sort": {
+            "by": {
+                "default": "ค่าเริ่มต้น",
+                "distance": "ระยะทาง",
+                "label": "ชื่อ"
+            },
+            "title": "เรียงตาม"
+        },
+        "title": "จุดมาร์ค",
+        "tooltip": "รายชื่อ-จุดมาร์ค"
+    },
+    "menu": {
+        "title": "เมนู",
+        "tooltip": "เมนู"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "ผู้เล่น",
+        "tooltip": "รายชื่อ-ผู้เล่น"
+    },
+    "renderDistance": {
+        "hiresLayer": "ชั้นหลัก",
+        "loadHiresWhileMoving": "โหลดชั้นกลางในขณะเคลื่อนที่",
+        "lowersLayer": "ชั้นคุณภาพน้อย",
+        "off": "ปิด",
+        "title": "ระยะเรนเดอร์"
+    },
+    "resetAllSettings": {
+        "button": "รีเซ็ตการตั้งค่าทั้งหมด"
+    },
+    "resetCamera": {
+        "button": "รีเซ็ตกล้อง",
+        "tooltip": "รีเซ็ตกล้องและตำแหน่ง"
+    },
+    "resolution": {
+        "high": "สูง (SSAA x2)",
+        "low": "ต่ำ (Upscaling x0.5)",
+        "normal": "ธรรมดา (Native x1)",
+        "title": "ความละเอียด"
+    },
+    "screenshot": {
+        "button": "ถ่ายภาพหน้าจอ",
+        "clipboard": "คัดลอกไปยังคลิปบอร์ด",
+        "title": "ภาพหน้าจอ"
+    },
+    "settings": {
+        "button": "ตั้งค่า",
+        "title": "ตั้งค่า"
+    },
+    "theme": {
+        "contrast": "มืดสนิด",
+        "dark": "มืด",
+        "default": "ค่าเริ่มต้น (ระบบ/เบราว์เซอร์)",
+        "light": "สว่าง",
+        "title": "ธีม"
+    },
+    "updateMap": {
+        "button": "อัพเดทแผนที่",
+        "tooltip": "ล้างแคชไทล์"
+    }
+}

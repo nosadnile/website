@@ -1,0 +1,141 @@
+{
+    "blockTooltip": {
+        "block": "Bloco",
+        "chunk": "Chunk",
+        "light": {
+            "block": "Bloco",
+            "light": "Luz",
+            "sun": "Sol"
+        },
+        "position": "Posição",
+        "region": {
+            "file": "Ficheiro",
+            "region": "Região"
+        }
+    },
+    "compass": {
+        "tooltip": "Compasso / Apontar para norte"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Plano",
+            "tooltip": "Visão plana"
+        },
+        "freeFlight": {
+            "button": "Voo-livre",
+            "tooltip": "Voo-livre / Modo espectador"
+        },
+        "perspective": {
+            "button": "Perspetiva",
+            "tooltip": "Visão de perspetiva"
+        },
+        "title": "Visão / Controlos"
+    },
+    "debug": {
+        "button": "Debug"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Inverter rato Y",
+        "mouseSensitivity": "Sensibilidade do rato",
+        "title": "Controlos de voo-livre"
+    },
+    "goFullscreen": {
+        "button": "Tela Cheia"
+    },
+    "info": {
+        "button": "Informação",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Controlos do rato:</h2>\n\t<table>\n\t\t<tr><th>mover</th><td><kbd>click-esquerdo</kbd> + arrastar</td></tr>\n\t\t<tr><th>zoom</th><td><kbd>botão do meio</kbd> (scroll)</td></tr>\n\t\t<tr><th>rodar / inclinar</th><td><kbd>click-direito</kbd> + arrastar</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Controlos do teclado:</h2>\n\t<table>\n\t\t<tr><th>mover</th><td><kbd>wasd</kbd> / <kbd>setas</kbd></td></tr>\n\t\t<tr><th>zoom</th><td>Numpad: <kbd>+</kbd>/<kbd>-</kbd> ou <kbd>Ins</kbd>/<kbd>Home</kbd></td></tr>\n\t\t<tr><th>rodar / inclinar</th><td><kbd>Alt-esquerdo</kbd> + <kbd>wasd</kbd> / <kbd>setas</kbd> ou <kbd>Delete</kbd>/<kbd>End</kbd>/<kbd>Page Up</kbd>/<kbd>Page Down</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Controlos táteis:</h2>\n\t<table>\n\t\t<tr><th>mover</th><td>tocar + arrastar</td></tr>\n\t\t<tr><th>zoom</th><td>tocar com 2 dedos + afastar / aproximar os dedos</td></tr>\n\t\t<tr><th>rodar / inclinar</th><td>tocar com 2 dedos + rodar / mover para cima / baixo</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\tEste mapa foi gerado com &#9829; usando o <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version}\n</p>\n",
+        "title": "Informação"
+    },
+    "language": {
+        "title": "Língua"
+    },
+    "lighting": {
+        "ambientLight": "Luz ambiental",
+        "dayNightSwitch": {
+            "tooltip": "Dia/Noite"
+        },
+        "sunlight": "Luz do dia",
+        "title": "Luminosidade"
+    },
+    "map": {
+        "errored": "Houve um erro ao tentar carregar este mapa!",
+        "loading": "A carregar o mapa...",
+        "unloaded": "Nenhum mapa carregado."
+    },
+    "mapControls": {
+        "showZoomButtons": "Mostrar botões de Zoom",
+        "title": "Controlos do mapa"
+    },
+    "maps": {
+        "button": "Mapas",
+        "title": "Mapas",
+        "tooltip": "Lista de mapas"
+    },
+    "markers": {
+        "button": "Marcadores",
+        "followPlayerTitle": "Seguir Jogador",
+        "marker": "marcador | marcadores",
+        "markerSet": "colocar marcador | colocar marcadores",
+        "searchPlaceholder": "Procurar...",
+        "sort": {
+            "by": {
+                "default": "Padrão",
+                "distance": "Distância",
+                "label": "Nome"
+            },
+            "title": "Organizar por"
+        },
+        "title": "Marcadores",
+        "tooltip": "Lista de marcadores"
+    },
+    "menu": {
+        "title": "Menu",
+        "tooltip": "Menu"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Jogadores",
+        "tooltip": "Lista de jogadores"
+    },
+    "renderDistance": {
+        "hiresLayer": "Camada de alta resolução",
+        "loadHiresWhileMoving": "Carregar alta resolução em movimento",
+        "lowersLayer": "Camada de baixa resolução",
+        "off": "Desligar",
+        "title": "Distância de renderização"
+    },
+    "resetAllSettings": {
+        "button": "Redefinir todas as configurações"
+    },
+    "resetCamera": {
+        "button": "Redefinir Câmara",
+        "tooltip": "Redefinir Câmara e Posição"
+    },
+    "resolution": {
+        "high": "Alta (SSAA x2)",
+        "low": "Baixa (Upscaling x0.5)",
+        "normal": "Normal (Nativo x1)",
+        "title": "Resolução"
+    },
+    "screenshot": {
+        "button": "Tirar captura de ecrã",
+        "clipboard": "Copiar para a área de transferência",
+        "title": "Captura de ecrã"
+    },
+    "settings": {
+        "button": "Definições",
+        "title": "Definições"
+    },
+    "theme": {
+        "contrast": "Contraste",
+        "dark": "Escuro",
+        "default": "Padrão (Sistema/Browser)",
+        "light": "Claro",
+        "title": "Tema"
+    },
+    "updateMap": {
+        "button": "Atualizar mapa",
+        "tooltip": "Limpar cache de tiles"
+    }
+}

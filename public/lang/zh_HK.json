@@ -1,0 +1,114 @@
+{
+    "blockTooltip": {
+        "block": "方塊",
+        "chunk": "區塊",
+        "light": {
+            "block": "方塊",
+            "light": "光亮度",
+            "sun": "太陽"
+        },
+        "position": "位置",
+        "region": {
+            "file": "檔案",
+            "region": "區域"
+        }
+    },
+    "compass": {
+        "tooltip": "指南針/朝北"
+    },
+    "controls": {
+        "flatView": {
+            "button": "平面",
+            "tooltip": "平面投射 / 平面-觀賞模式"
+        },
+        "freeFlight": {
+            "button": "自由瀏覽飛行模式",
+            "tooltip": "自由瀏覽 / 觀察者模式"
+        },
+        "perspective": {
+            "button": "3D透視",
+            "tooltip": "3D透視-觀賞模式"
+        },
+        "title": "觀賞模式/控制"
+    },
+    "debug": {
+        "button": "除錯"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "反轉Y軸",
+        "mouseSensitivity": "滑鼠靈敏度",
+        "title": "自由瀏覽飛行模式"
+    },
+    "goFullscreen": {
+        "button": "開啟全螢幕模式"
+    },
+    "info": {
+        "button": "資訊",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>滑鼠控制:</h2>\n\t<table>\n\t\t<tr><th>移動</th><td><kbd>左鍵</kbd> + 拖拉</td></tr>\n\t\t<tr><th>放大縮小</th><td><kbd>滑鼠滾輪</kbd> (滾動)</td></tr>\n\t\t<tr><th>旋轉 / 傾斜</th><td><kbd>右鍵</kbd> + 拖拉</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>鍵盤控制:</h2>\n\t<table>\n\t\t<tr><th>移動</th><td><kbd>wasd</kbd> / <kbd>箭嘴按鍵</kbd></td></tr>\n\t\t<tr><th>放大縮小</th><td>數字鍵: <kbd>+</kbd>/<kbd>-</kbd> 或 <kbd>Ins</kbd>/<kbd>Home</kbd></td></tr>\n\t\t<tr><th>旋轉 / 傾斜</th><td><kbd>左 Alt</kbd> + <kbd>wasd</kbd> / <kbd>arrow-keys</kbd> 或 <kbd>Delete</kbd>/<kbd>End</kbd>/<kbd>Page Up</kbd>/<kbd>Page Down</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>觸碰控制:</h2>\n\t<table>\n\t\t<tr><th>移動</th><td>觸碰 + 拖拉</td></tr>\n\t\t<tr><th>放大縮小</th><td>用兩隻手指觸碰 </td></tr>\n\t\t<tr><th>旋轉 / 傾斜</th><td>用兩隻手指觸碰 + 旋轉 或 同時向上／下</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\t此地圖是用 &#9829; 製作，地圖插件名稱是 <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version}\n</p>\n",
+        "title": "資訊"
+    },
+    "language": {
+        "title": "語言"
+    },
+    "lighting": {
+        "ambientLight": "環境亮度",
+        "dayNightSwitch": {
+            "tooltip": "日/夜"
+        },
+        "sunlight": "日光",
+        "title": "光影"
+    },
+    "maps": {
+        "button": "地圖",
+        "title": "地圖",
+        "tooltip": "地圖列表"
+    },
+    "markers": {
+        "button": "標記",
+        "marker": "標記 | 標記",
+        "markerSet": "標記設定 | 標記設定",
+        "title": "標記",
+        "tooltip": "標記列表"
+    },
+    "menu": {
+        "title": "菜單",
+        "tooltip": "菜單"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "玩家",
+        "tooltip": "玩家列表"
+    },
+    "renderDistance": {
+        "hiresLayer": "高解像度層",
+        "lowersLayer": "低解像度層",
+        "title": "渲染距離"
+    },
+    "resetAllSettings": {
+        "button": "重設所有設定"
+    },
+    "resetCamera": {
+        "button": "重設鏡頭視角",
+        "tooltip": "重設鏡頭視角及位置"
+    },
+    "resolution": {
+        "high": "高 (SSAA反鋸齒 x2)",
+        "low": "低 (倍率 x0.5)",
+        "normal": "普通 (預設 x1)",
+        "title": "解像度"
+    },
+    "settings": {
+        "button": "設定",
+        "title": "設定"
+    },
+    "theme": {
+        "dark": "黑暗",
+        "default": "預設 (系統/瀏覽器)",
+        "light": "光亮",
+        "title": "顯示距離"
+    },
+    "updateMap": {
+        "button": "重新讀取地圖",
+        "tooltip": "移除地圖快取"
+    }
+}

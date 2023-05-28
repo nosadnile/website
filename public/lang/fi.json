@@ -1,0 +1,141 @@
+{
+    "blockTooltip": {
+        "block": "Kuutio",
+        "chunk": "Lohko",
+        "light": {
+            "block": "Kuutio",
+            "light": "Valo",
+            "sun": "Aurinko"
+        },
+        "position": "Sijainti",
+        "region": {
+            "file": "Tiedosto",
+            "region": "Alue"
+        }
+    },
+    "compass": {
+        "tooltip": "Kompassi / Katso pohjoiseen"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Tasainen",
+            "tooltip": "Ortografinen  / Tasainen näkymä"
+        },
+        "freeFlight": {
+            "button": "Vapaa lento",
+            "tooltip": "Vapaa lento / Katsojatila"
+        },
+        "perspective": {
+            "button": "Perspektiivi",
+            "tooltip": "Perspektiivi näkymä"
+        },
+        "title": "Näkymä / Ohjaus"
+    },
+    "debug": {
+        "button": "Debug"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Käännä hiiren Y-akseli",
+        "mouseSensitivity": "Hiiren herkkyys",
+        "title": "Vapaan lennon ohjaimet"
+    },
+    "goFullscreen": {
+        "button": "Mene kokoruudun tilaan"
+    },
+    "info": {
+        "button": "Tiedot",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Hiiriasetukset:</h2>\n\t<table>\n\t\t<tr><th>liiku</th><td><kbd>vasen painallus</kbd> + vedä</td></tr>\n\t\t<tr><th>zoomaa</th><td><kbd>hiiren rulla</kbd> (rullaa)</td></tr>\n\t\t<tr><th>käänny / kallista</th><td><kbd>oikea painallus</kbd> + vedä</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Näppäimistöasetukset:</h2>\n\t<table>\n\t\t<tr><th>liiku</th><td><kbd>wasd</kbd> / <kbd>nuolinäppäimet</kbd></td></tr>\n\t\t<tr><th>zoomaa</th><td>Numero näppäimistö: <kbd>+</kbd>/<kbd>-</kbd> tai <kbd>Ins-näppäin</kbd>/<kbd>Home-näppäin</kbd></td></tr>\n\t\t<tr><th>käänny / kallista</th><td><kbd>Vasen-Alt</kbd> + <kbd>wasd</kbd> / <kbd>nuolinäppäimet</kbd> tai <kbd>Delete-näppäin</kbd>/<kbd>End-näppäin</kbd>/<kbd>Page Up -näppäin</kbd>/<kbd>Page Down -näppäin</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Kosketusasetukset:</h2>\n\t<table>\n\t\t<tr><th>liiku</th><td>kosketa + vedä</td></tr>\n\t\t<tr><th>zoomaa</th><td>kosketa kahdella sormella + nipistä</td></tr>\n\t\t<tr><th>käänny / kallista</th><td>kosketa kahdella sormella + käännä / liiku ylös/alas</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n    Tämä kartta on tehty rakkaudella &#9829; käyttäen <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version} -ohjelmaa\n</p>\n",
+        "title": "Tiedot"
+    },
+    "language": {
+        "title": "Kieli"
+    },
+    "lighting": {
+        "ambientLight": "Ympäristön valo",
+        "dayNightSwitch": {
+            "tooltip": "Päivä/Yö"
+        },
+        "sunlight": "Auringonvalo",
+        "title": "Valaistus"
+    },
+    "map": {
+        "errored": "Karttaa ladatessa ilmeni ongelmia!",
+        "loading": "Ladataan karttaa...",
+        "unloaded": "Ei karttaa ladattuna."
+    },
+    "mapControls": {
+        "showZoomButtons": "Näytä zoomauksen nappulat",
+        "title": "Kartan ohjaimet"
+    },
+    "maps": {
+        "button": "Kartat",
+        "title": "Kartat",
+        "tooltip": "Karttalista"
+    },
+    "markers": {
+        "button": "Merkit",
+        "followPlayerTitle": "Seuraa pelaajaa",
+        "marker": "merkki | merkkiä",
+        "markerSet": "merkkisetti | merkkisettiä",
+        "searchPlaceholder": "Etsi...",
+        "sort": {
+            "by": {
+                "default": "oletus",
+                "distance": "etäisyys",
+                "label": "nimi"
+            },
+            "title": "Järjestys"
+        },
+        "title": "Merkit",
+        "tooltip": "Merkkilista"
+    },
+    "menu": {
+        "title": "Valikko",
+        "tooltip": "Valikko"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Pelaajat",
+        "tooltip": "Pelaajalista"
+    },
+    "renderDistance": {
+        "hiresLayer": "Korkealaatuinen kerros",
+        "loadHiresWhileMoving": "Lataa korkealaatuinen kerros liikkuessa",
+        "lowersLayer": "Matalalaatuinen kerros",
+        "off": "Pois",
+        "title": "Näköetäisyys"
+    },
+    "resetAllSettings": {
+        "button": "Nollaa kaikki asetukset"
+    },
+    "resetCamera": {
+        "button": "Nollaa kamera",
+        "tooltip": "Nolla kamera ja sijainti"
+    },
+    "resolution": {
+        "high": "Korkea (SSAA x2)",
+        "low": "Alhainen (Skaalaus x0.5)",
+        "normal": "Normaali (Natiivi x1)",
+        "title": "Resoluutio"
+    },
+    "screenshot": {
+        "button": "Ota kuvankaappaus",
+        "clipboard": "Kopioi leikepöydälle",
+        "title": "Kuvankaappaus"
+    },
+    "settings": {
+        "button": "Asetukset",
+        "title": "Asetukset"
+    },
+    "theme": {
+        "contrast": "Kontrasti",
+        "dark": "Tumma",
+        "default": "Oletus (Järjestelmä/Selain)",
+        "light": "Vaalea",
+        "title": "Teema"
+    },
+    "updateMap": {
+        "button": "Päivitä kartta",
+        "tooltip": "Tyhjennä välimuisti"
+    }
+}

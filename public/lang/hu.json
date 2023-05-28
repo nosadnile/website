@@ -1,0 +1,116 @@
+{
+    "blockTooltip": {
+        "block": "Blokk",
+        "chunk": "Chunk",
+        "light": {
+            "block": "Blokk",
+            "light": "Fény",
+            "sun": "Nap"
+        },
+        "position": "Pozíció",
+        "region": {
+            "file": "Fájl",
+            "region": "Régió"
+        }
+    },
+    "compass": {
+        "tooltip": "Iránytű / Északra fordulás"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Lapos",
+            "tooltip": "Orthographic / Lapos nézet"
+        },
+        "freeFlight": {
+            "button": "Szabadrepülés",
+            "tooltip": "Szabadrepülési / Szemlélő mód"
+        },
+        "perspective": {
+            "button": "Perspektivikus",
+            "tooltip": "Perspektivikus nézet"
+        },
+        "title": "Nézet / Vezérlés"
+    },
+    "debug": {
+        "button": "Hibakeresés"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Egér Y tengelyének invertálása",
+        "mouseSensitivity": "Egér érzékenység",
+        "title": "Szabadrepülési vezérlők"
+    },
+    "goFullscreen": {
+        "button": "Teljes képernyős mód bekapcsolása"
+    },
+    "info": {
+        "button": "Infó",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Egeres vezérlés:</h2>\n\t<table>\n\t\t<tr><th>mozgatás</th><td><kbd>bal klikk</kbd> + húzás</td></tr>\n\t\t<tr><th>zoomolás</th><td><kbd>görgő</kbd> (görgetés)</td></tr>\n\t\t<tr><th>elforgatás / döntés</th><td><kbd>jobb klikk</kbd> + húzás</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Billentyűzetes vezérlés:</h2>\n\t<table>\n\t\t<tr><th>mozgatás</th><td><kbd>wasd</kbd> / <kbd>nyilak</kbd></td></tr>\n\t\t<tr><th>zoomolás</th><td>Numpad: <kbd>+</kbd>/<kbd>-</kbd> or <kbd>Ins</kbd>/<kbd>Home</kbd></td></tr>\n\t\t<tr><th>elforgatás / döntés</th><td><kbd>Bal alt</kbd> + <kbd>wasd</kbd> / <kbd>arrow-keys</kbd> vagy <kbd>Delete</kbd>/<kbd>End</kbd>/<kbd>Page Up</kbd>/<kbd>Page Down</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Érintéses vezérlés:</h2>\n\t<table>\n\t\t<tr><th>mozgatás</th><td>érintés + húzás</td></tr>\n\t\t<tr><th>zoomolás</th><td>két ujjal érintés + csípés</td></tr>\n\t\t<tr><th>elforgatás / döntés</th><td>két ujjal érintés + forgatás / felfele/lefele mozgatás</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\tEz a térkép &#9829; a <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version} segítségével lett generálva\n</p>\n",
+        "title": "Infó"
+    },
+    "language": {
+        "title": "Nyelv"
+    },
+    "lighting": {
+        "ambientLight": "Háttérvilágítás",
+        "dayNightSwitch": {
+            "tooltip": "Reggel/Éjszaka"
+        },
+        "sunlight": "Napfény",
+        "title": "Villámlás"
+    },
+    "maps": {
+        "button": "Térképek",
+        "title": "Térképek",
+        "tooltip": "Térképlista"
+    },
+    "markers": {
+        "button": "Jelölők",
+        "followPlayerTitle": "Játékos követése",
+        "marker": "jelölő | jelölők",
+        "markerSet": "jelölőkészlet | jelölőkészletek",
+        "searchPlaceholder": "Keresés...",
+        "title": "Jelölők",
+        "tooltip": "Jelölőlista"
+    },
+    "menu": {
+        "title": "Menü",
+        "tooltip": "Menü"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Játékosok",
+        "tooltip": "Játékos lista"
+    },
+    "renderDistance": {
+        "hiresLayer": "Hires réteg",
+        "lowersLayer": "Lowres réteg",
+        "title": "Látótávolság"
+    },
+    "resetAllSettings": {
+        "button": "Minden beállítás alaphelyzetbe állítása"
+    },
+    "resetCamera": {
+        "button": "Kamera visszaállítása",
+        "tooltip": "Kamera & pozíció visszaállítása"
+    },
+    "resolution": {
+        "high": "Magas (SSAA x2)",
+        "low": "Alacsony (Upscaling x0.5)",
+        "normal": "Normál (Native x1)",
+        "title": "Felbontás"
+    },
+    "settings": {
+        "button": "Beállítások",
+        "title": "Beállítások"
+    },
+    "theme": {
+        "dark": "Sötét",
+        "default": "Alapértelmezett (Rendszer/Böngésző)",
+        "light": "Világos",
+        "title": "Téma"
+    },
+    "updateMap": {
+        "button": "Térkép frissítése",
+        "tooltip": "Csempe gyorsítótárának törlése"
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "blockTooltip": {
+        "block": "Block",
+        "chunk": "Chunk",
+        "light": {
+            "block": "Block",
+            "light": "Licht",
+            "sun": "Sonne"
+        },
+        "position": "Position",
+        "region": {
+            "file": "Datei",
+            "region": "Region"
+        }
+    },
+    "compass": {
+        "tooltip": "Kompass / nach Norden ausrichten"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Flache Sicht",
+            "tooltip": "Orthographisch / Flache Sicht"
+        },
+        "freeFlight": {
+            "button": "Freie Kamera",
+            "tooltip": "Freie Kamera / Zuschauermodus"
+        },
+        "perspective": {
+            "button": "Perspektiv-Sicht",
+            "tooltip": "Perspektivische Sicht"
+        },
+        "title": "Ansicht / Steuerung"
+    },
+    "debug": {
+        "button": "Debug"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Maus Y umkehren",
+        "mouseSensitivity": "Maus-Sensitivität",
+        "title": "Freie Kamera"
+    },
+    "goFullscreen": {
+        "button": "Vollbildmodus"
+    },
+    "info": {
+        "button": "Info",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Maussteuerung:</h2>\n\t<table>\n\t\t<tr><th>Bewegen</th><td><kbd>Linksklick</kbd> + ziehen</td></tr>\n\t\t<tr><th>Zoomen</th><td><kbd>Mausrad</kbd> (scrollen)</td></tr>\n\t\t<tr><th>Drehen / Schwenken</th><td><kbd>Rechtsklick</kbd> + ziehen</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Tastatursteuerung:</h2>\n\t<table>\n\t\t<tr><th>Bewegen</th><td><kbd>wasd</kbd> / <kbd>Pfeiltasten</kbd></td></tr>\n\t\t<tr><th>Zoomen</th><td>Nummernblock: <kbd>+</kbd>/<kbd>-</kbd> oder <kbd>Einfg</kbd>/<kbd>Pos 1</kbd></td></tr>\n\t\t<tr><th>Drehen / Schwenken</th><td><kbd>Alt</kbd> + <kbd>wasd</kbd> / <kbd>Pfeiltasten</kbd> oder <kbd>Entf</kbd>/<kbd>Ende</kbd>/<kbd>Bild &uarr;</kbd>/<kbd>Bild &darr;</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Touchsteuerung:</h2>\n\t<table>\n\t\t<tr><th>Bewegen</th><td>berühren + ziehen</td></tr>\n\t\t<tr><th>Zoomen</th><td>mit zwei Fingern berühren + zusammen/auseinander ziehen</td></tr>\n\t\t<tr><th>Drehen / Schwenken</th><td>mit zwei Fingern berühren + drehen / hoch/runter ziehen</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\tDiese Map wurde mit &#9829; von <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version} generiert\n</p>\n",
+        "title": "Info"
+    },
+    "language": {
+        "title": "Sprache"
+    },
+    "lighting": {
+        "ambientLight": "Umgebungslicht",
+        "dayNightSwitch": {
+            "tooltip": "Tag/Nacht"
+        },
+        "sunlight": "Sonnenlicht",
+        "title": "Beleuchtung"
+    },
+    "map": {
+        "errored": "Beim laden der Karte ist ein Fehler aufgetreten!",
+        "loading": "Lade Karte...",
+        "unloaded": "Keine Karte geladen."
+    },
+    "mapControls": {
+        "showZoomButtons": "Zoom-Buttons",
+        "title": "Steuerung"
+    },
+    "maps": {
+        "button": "Karten",
+        "title": "Karten",
+        "tooltip": "Kartenliste"
+    },
+    "markers": {
+        "button": "Marker",
+        "followPlayerTitle": "Spieler folgen",
+        "marker": "Marker | Marker",
+        "markerSet": "Markerset | Markersets",
+        "searchPlaceholder": "Suche...",
+        "sort": {
+            "by": {
+                "default": "Standard",
+                "distance": "Distanz",
+                "label": "Name"
+            },
+            "title": "Sortieren nach"
+        },
+        "title": "Marker",
+        "tooltip": "Markerliste"
+    },
+    "menu": {
+        "title": "Menü",
+        "tooltip": "Menü"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Spieler",
+        "tooltip": "Spielerliste"
+    },
+    "renderDistance": {
+        "hiresLayer": "Hires-Schicht",
+        "loadHiresWhileMoving": "Lade Hires während Bewegung",
+        "lowersLayer": "Lowres-Schicht",
+        "off": "Off",
+        "title": "Renderdistanz"
+    },
+    "resetAllSettings": {
+        "button": "Einstellungen zurücksetzen"
+    },
+    "resetCamera": {
+        "button": "Kamera zurücksetzen",
+        "tooltip": "Kamera & Position zurücksetzen"
+    },
+    "resolution": {
+        "high": "Hoch (SSAA x2)",
+        "low": "Niedrig (Hochskalieren x0.5)",
+        "normal": "Normal (Nativ x1)",
+        "title": "Auflösung"
+    },
+    "screenshot": {
+        "button": "Screenshot machen",
+        "clipboard": "In Zwischenablage kopieren",
+        "title": "Screenshot"
+    },
+    "settings": {
+        "button": "Einstellungen",
+        "title": "Einstellungen"
+    },
+    "theme": {
+        "contrast": "Kontrast",
+        "dark": "Dunkel",
+        "default": "Standard (System/Browser)",
+        "light": "Hell",
+        "title": "Farbmodus"
+    },
+    "updateMap": {
+        "button": "Karte aktualisieren",
+        "tooltip": "Leere den Karten-Cache"
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "blockTooltip": {
+        "block": "Bloks",
+        "chunk": "Gabals",
+        "light": {
+            "block": "Bloks",
+            "light": "Gaisma",
+            "sun": "Saule"
+        },
+        "position": "Pozīcija",
+        "region": {
+            "file": "Fails",
+            "region": "Reģions"
+        }
+    },
+    "compass": {
+        "tooltip": "Kompass / Pagriezt Uz Ziemeļiem"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Plakans",
+            "tooltip": "Ortogrāfiskais / Plakanais Skats"
+        },
+        "freeFlight": {
+            "button": "Brīvais Lidojums",
+            "tooltip": "Brīvais Lidojums / Skatītāja Režīms"
+        },
+        "perspective": {
+            "button": "Perspektīvā Projekcija",
+            "tooltip": "3D / Perspektīvā Projekcija"
+        },
+        "title": "Skats / Vadība"
+    },
+    "debug": {
+        "button": "Atķļūdošana"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Izvērst Peli Y Asī",
+        "mouseSensitivity": "Peles Jūtība",
+        "title": "Brīvā Lidojuma Vadība"
+    },
+    "goFullscreen": {
+        "button": "Pilnekrāna Režīms"
+    },
+    "info": {
+        "button": "Informācija",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Peles Vadība:</h2>\n\t<table>\n\t\t<tr><th>Pārvietošana</th><td><kbd>Kreisais Peles Klikšķis</kbd> + drag</td></tr>\n\t\t<tr><th>Pietuvināšana</th><td><kbd>Peles Rullītis</kbd> (scroll)</td></tr>\n\t\t<tr><th>Rotācija / Sašķiebšana</th><td><kbd>Labais Peles Klikšķis</kbd> + drag</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Klaviatūras Vadība::</h2>\n\t<table>\n\t\t<tr><th>Pārvietošana</th><td><kbd>WASD</kbd> / <kbd>Bultiņu Taustiņi</kbd></td></tr>\n\t\t<tr><th>Pietuvināšana</th><td>Numurtaustiņi <kbd>+</kbd>/<kbd>-</kbd> vai <kbd>Insert</kbd>/<kbd>Home</kbd></td></tr>\n\t\t<tr><th>Rotācija / Sašķiebšana</th><td><kbd>Kreisais-Alt</kbd> + <kbd>WASD</kbd> / <kbd>Bultiņu Taustiņi</kbd> vai <kbd>Delete</kbd>/<kbd>End</kbd>/<kbd>Page Up</kbd>/<kbd>Page Down</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Pieskārienu Vadība:</h2>\n\t<table>\n\t\t<tr><th>Pārvietošana</th><td>Pieskāriens + Vilkšana</td></tr>\n\t\t<tr><th>Pietuvināšana</th><td>Pieskarieties Ar Diviem Pirkstiem + Satvert</td></tr>\n\t\t<tr><th>Rotācija / Sašķiebšana</th><td>Pieskarieties Ar Diviem Pirkstiem + Rotācija / Uz Augšu/Leju</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\tŠī karte veidota ar &#9829; <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version}\n</p>\n",
+        "title": "Informācija"
+    },
+    "language": {
+        "title": "Valoda"
+    },
+    "lighting": {
+        "ambientLight": "Gaisma No Blokiem",
+        "dayNightSwitch": {
+            "tooltip": "Diena/Nakts"
+        },
+        "sunlight": "Saules Gaisma",
+        "title": "Apgaismojums"
+    },
+    "maps": {
+        "button": "Kartes",
+        "title": "Kartes",
+        "tooltip": "Karšu Saraksts"
+    },
+    "markers": {
+        "button": "Marķieri",
+        "marker": "Marķieris | Marķieri",
+        "markerSet": "Marķieru Kopa | Marķieru Kopas",
+        "searchPlaceholder": "Meklēt...",
+        "title": "Marķieri",
+        "tooltip": "Marķieru Saraksts"
+    },
+    "menu": {
+        "title": "Izvēlne",
+        "tooltip": "Izvēlne"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Spēlētāji",
+        "tooltip": "Spēlētāju Saraksts"
+    },
+    "renderDistance": {
+        "hiresLayer": "Augstās Kval. Slānis",
+        "lowersLayer": "Zemās Kval. Slānis",
+        "title": "Renderēšanas Attālums"
+    },
+    "resetAllSettings": {
+        "button": "Atjaunot Iestatījumus"
+    },
+    "resetCamera": {
+        "button": "Atiestatīt Kameru",
+        "tooltip": "Atiestatīt Kameru & Pozīciju"
+    },
+    "resolution": {
+        "high": "Augsta (SSAA x2)",
+        "low": "Zema (Palielināšana x0.5)",
+        "normal": "Vidēja (Iebūvētā x1)",
+        "title": "Ižšķirtspēja"
+    },
+    "settings": {
+        "button": "Iestatījumi",
+        "title": "Iestatījumi"
+    },
+    "theme": {
+        "dark": "Tumšs",
+        "default": "Noklusētais (Sistēma/Pārlūks)",
+        "light": "Gaišs",
+        "title": "Motīvs"
+    },
+    "updateMap": {
+        "button": "Atjaunot Karti",
+        "tooltip": "Notīrīt Kartes Kešatmiņu"
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "blockTooltip": {
+        "block": "Blok",
+        "chunk": "Chunk",
+        "light": {
+            "block": "Blok",
+            "light": "Světlo",
+            "sun": "Slunce"
+        },
+        "position": "Pozice",
+        "region": {
+            "file": "Soubor",
+            "region": "Oblast"
+        }
+    },
+    "compass": {
+        "tooltip": "Kompas / sever"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Plochý",
+            "tooltip": "Ortografické / ploché zobrazení"
+        },
+        "freeFlight": {
+            "button": "Volné létání",
+            "tooltip": "Volné létání / režim pozorovatele"
+        },
+        "perspective": {
+            "button": "Perspektiva",
+            "tooltip": "Zobrazení perspektivy"
+        },
+        "title": "Zobrazení / ovládání"
+    },
+    "debug": {
+        "button": "Ladění"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Invertovat Y myši",
+        "mouseSensitivity": "Citlivost myši",
+        "title": "Ovládání volného létání"
+    },
+    "goFullscreen": {
+        "button": "Celá obrazovka"
+    },
+    "info": {
+        "button": "Informace",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Ovládání myší:</h2>\n\t<table>\n\t\t<tr><th>pohyb</th><td><kbd>levé tlačítko</kbd> + táhnutí</td></tr>\n\t\t<tr><th>přiblížení</th><td><kbd>kolečko myši</kbd> (otáčení)</td></tr>\n\t\t<tr><th>rotace / naklonění</th><td><kbd>pravé tlačítko</kbd> + táhnutí</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Ovládání klávesnicí:</h2>\n\t<table>\n\t\t<tr><th>pohyb</th><td><kbd>wasd</kbd> / <kbd>šipky</kbd></td></tr>\n\t\t<tr><th>přiblížení</th><td>Num. klávesnice: <kbd>+</kbd>/<kbd>-</kbd> nebo <kbd>Ins</kbd>/<kbd>Home</kbd></td></tr>\n\t\t<tr><th>rotace / naklonění</th><td><kbd>Levý Alt</kbd> + <kbd>wasd</kbd> / <kbd>šipky</kbd> nebo <kbd>Del</kbd>/<kbd>End</kbd>/<kbd>Page Up</kbd>/<kbd>Page Down</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Ovládání dotykem:</h2>\n\t<table>\n\t\t<tr><th>pohyb</th><td>dotyk + táhnutí</td></tr>\n\t\t<tr><th>přiblížení</th><td>dotyk dvěma prsty + roztáhnutí</td></tr>\n\t\t<tr><th>rotace / naklonění</th><td>dotyk dvěma prsty + rotace / pohyb nahoru/dolů</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\tMapa byla vygenerována s &#9829; pomocí <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version}\n</p>\n",
+        "title": "Informace"
+    },
+    "language": {
+        "title": "Jazyk"
+    },
+    "lighting": {
+        "ambientLight": "Ambientní osvětlení",
+        "dayNightSwitch": {
+            "tooltip": "Den/noc"
+        },
+        "sunlight": "Sluneční světlo",
+        "title": "Osvětlení"
+    },
+    "maps": {
+        "button": "Mapy",
+        "title": "Mapy",
+        "tooltip": "Seznam map"
+    },
+    "markers": {
+        "button": "Značky",
+        "marker": "značka | značky",
+        "markerSet": "sada značek | sady značek",
+        "title": "Značky",
+        "tooltip": "Seznam značek"
+    },
+    "menu": {
+        "title": "Menu",
+        "tooltip": "Menu"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Hráči",
+        "tooltip": "Seznam hráčů"
+    },
+    "renderDistance": {
+        "hiresLayer": "Vrstva vysokého rozlišení",
+        "lowersLayer": "Vrstva nízkého rozlišení",
+        "title": "Dohled"
+    },
+    "resetAllSettings": {
+        "button": "Obnovit všechna nastavení"
+    },
+    "resetCamera": {
+        "button": "Obnovit kameru",
+        "tooltip": "Obnovit kameru a pozici"
+    },
+    "resolution": {
+        "high": "Vysoké (SSAA x2)",
+        "low": "Nízké (Upscaling x0.5)",
+        "normal": "Normální (Native x1)",
+        "title": "Rozlišení"
+    },
+    "settings": {
+        "button": "Nastavení",
+        "title": "Nastavení"
+    },
+    "theme": {
+        "dark": "Tmavé",
+        "default": "Výchozí (systém/prohlížeč)",
+        "light": "Světlé",
+        "title": "Téma"
+    },
+    "updateMap": {
+        "button": "Aktualizovat mapu",
+        "tooltip": "Vymazat mezipaměť dlaždic"
+    }
+}

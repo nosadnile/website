@@ -1,0 +1,128 @@
+{
+    "blockTooltip": {
+        "block": "Блок",
+        "chunk": "Чанк",
+        "light": {
+            "block": "Блок",
+            "light": "Освітлення",
+            "sun": "Сонце"
+        },
+        "position": "Позиція",
+        "region": {
+            "file": "Файл",
+            "region": "Регіон"
+        }
+    },
+    "compass": {
+        "tooltip": "Компас / Повернути на північ"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Пласка карта",
+            "tooltip": "Ортографічна / Пласка проекція"
+        },
+        "freeFlight": {
+            "button": "Вільний політ",
+            "tooltip": "Вільний політ / \"Spectator mode\""
+        },
+        "perspective": {
+            "button": "Перспектива",
+            "tooltip": "Перспективна проекція"
+        },
+        "title": "Налаштування відображення"
+    },
+    "debug": {
+        "button": "Відлагоджувальний режим"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Вертикальне інвертування миші",
+        "mouseSensitivity": "Чутливість миші",
+        "title": "Налаштування вільного польоту"
+    },
+    "goFullscreen": {
+        "button": "Перейти в повноекранний режим"
+    },
+    "info": {
+        "button": "Інформація",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Керування-мишею:</h2>\n\t<table>\n\t\t<tr><th>рух</th><td><kbd>лівий-клік</kbd> + пересування</td></tr>\n\t\t<tr><th>приближення</th><td><kbd>колесико-миші</kbd> (прокрутити)</td></tr>\n\t\t<tr><th>повернути / повернути</th><td><kbd>правий-клік</kbd> + пересування</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Керування-клавіатурою:</h2>\n\t<table>\n\t\t<tr><th>рух</th><td><kbd>wasd</kbd> / <kbd>стрілки-клавіатури</kbd></td></tr>\n\t\t<tr><th>приблизити</th><td>Цифроблок: <kbd>+</kbd>/<kbd>-</kbd> або <kbd>Ins</kbd>/<kbd>Home</kbd></td></tr>\n\t\t<tr><th>повернути / нахилити</th><td><kbd>Лівий-Alt</kbd> + <kbd>wasd</kbd> / <kbd>стрілки-клавіатури</kbd> або <kbd>Delete</kbd>/<kbd>End</kbd>/<kbd>Page Up</kbd>/<kbd>Page Down</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Сенсорна-панель:</h2>\n\t<table>\n\t\t<tr><th>рух</th><td>дотик + перетягування</td></tr>\n\t\t<tr><th>приблизити</th><td>дотик двома пальцями + зсув доверху</td></tr>\n\t\t<tr><th>поворот / нахил</th><td>дотик двома пальцями + поворот / зсув доверху / донизу</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\tЦю карту було згенеровано з &#9829; використовуючи <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version}\n</p>\n\t\t",
+        "title": "Інформація"
+    },
+    "language": {
+        "title": "Мова"
+    },
+    "lighting": {
+        "ambientLight": "Навколишнє світло",
+        "dayNightSwitch": {
+            "tooltip": "День/Ніч"
+        },
+        "sunlight": "Сонячне світло",
+        "title": "Освітлення"
+    },
+    "mapControls": {
+        "showZoomButtons": "Показати кнопки масштабування",
+        "title": "Керування мапою"
+    },
+    "maps": {
+        "button": "Карти",
+        "title": "Карти",
+        "tooltip": "Список карт"
+    },
+    "markers": {
+        "button": "Мітки",
+        "followPlayerTitle": "Слідкувати за гравцем",
+        "marker": "маркер | маркери",
+        "markerSet": "набір маркерів | набори маркерів",
+        "searchPlaceholder": "Пошук...",
+        "title": "Мітки",
+        "tooltip": "Список міток"
+    },
+    "menu": {
+        "title": "Меню",
+        "tooltip": "Меню"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Гравці",
+        "tooltip": "Список гравців"
+    },
+    "renderDistance": {
+        "hiresLayer": "Високодеталізований шар",
+        "loadHiresWhileMoving": "Вис. шар під час руху",
+        "lowersLayer": "Низькодеталізований шар",
+        "off": "Вимк",
+        "title": "Відстань промальовки"
+    },
+    "resetAllSettings": {
+        "button": "Скинути всі налаштування"
+    },
+    "resetCamera": {
+        "button": "Скинути камеру",
+        "tooltip": "Скинути камеру та позицію"
+    },
+    "resolution": {
+        "high": "Висока (SSAA x2)",
+        "low": "Низька (Апскейл x0.5)",
+        "normal": "Нормальна (Системна x1)",
+        "title": "Роздільна здатність"
+    },
+    "screenshot": {
+        "button": "Зробити Скріншот",
+        "clipboard": "Скопіювати в буфер обміну",
+        "title": "Скріншот"
+    },
+    "settings": {
+        "button": "Налаштування",
+        "title": "Налаштування"
+    },
+    "theme": {
+        "contrast": "Контрастна",
+        "dark": "Темна",
+        "default": "За замовчуванням (Браузерна)",
+        "light": "Світла",
+        "title": "Тема"
+    },
+    "updateMap": {
+        "button": "Оновити карту",
+        "tooltip": "Очистити кеш тайлів"
+    }
+}

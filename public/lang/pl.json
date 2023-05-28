@@ -1,0 +1,122 @@
+{
+    "blockTooltip": {
+        "block": "Blok",
+        "chunk": "Chunk",
+        "light": {
+            "block": "Blok",
+            "light": "Oświetlenie",
+            "sun": "Słońce"
+        },
+        "position": "Pozycja",
+        "region": {
+            "file": "Plik",
+            "region": "Region"
+        }
+    },
+    "compass": {
+        "tooltip": "Kompas / zwroć na północ"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Płaski",
+            "tooltip": "Widok płaski"
+        },
+        "freeFlight": {
+            "button": "Lot swobodny",
+            "tooltip": "Tryb widza"
+        },
+        "perspective": {
+            "button": "Perspektywa",
+            "tooltip": "Widok z perspektywy"
+        },
+        "title": "Widok"
+    },
+    "debug": {
+        "button": "Debugowanie"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Odwróć oś pionową myszy",
+        "mouseSensitivity": "Czułość myszy",
+        "title": "Sterowanie w locie swobodnym"
+    },
+    "goFullscreen": {
+        "button": "Tryb pełnoekranowy"
+    },
+    "info": {
+        "button": "Informacje i skróty klawiszowe",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Sterowanie myszką</h2>\n\t<table>\n\t\t<tr><th>Poruszanie się</th><td><kbd>lewy przycisk</kbd> + przeciągnięcie</td></tr>\n\t\t<tr><th>Zbliżenie i oddalenie</th><td><kbd>kółko myszy</kbd> (przewijanie)</td></tr>\n\t\t<tr><th>Obrót i pochylenie</th><td><kbd>prawy przycisk</kbd> + przeciągnięcie</td></tr>\n\t</table>\n</p>\n<br />\n<p>\n\t<h2>Sterowanie klawiaturą</h2>\n\t<table>\n\t\t<tr>\n\t\t\t<th>Poruszanie się</th>\n\t\t\t<td>\n\t\t\t\t<kbd>Klawisze WASD</kbd>\n\t\t\t\t<br />\n\t\t\t\talbo <kbd>Strzałki</kbd>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th>Zbliżenie i oddalenie</th>\n\t\t\t<td>\n\t\t\t\tKlawiatura numeryczna: <kbd>+</kbd> / <kbd>-</kbd>\n\t\t\t\t<br />\n\t\t\t\tlub <kbd>Insert (Ins)</kbd> / <kbd>Home</kbd>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th>Obrót i pochylenie</th>\n\t\t\t<td>\n\t\t\t\t<kbd>Lewy ALT</kbd> + <kbd>WASD</kbd>\n\t\t\t\t<br />\n\t\t\t\t<kbd>Lewy ALT</kbd> + <kbd>Strzałki</kbd>\n\t\t\t\t<br /><br />\n\t\t\t\tAlternatywnie: <kbd>Delete</kbd> / <kbd>End</kbd> / <kbd>Page Up</kbd> / <kbd>Page Down</kbd>\n\t\t\t</td>\n\t\t</tr>\n\t</table>\n</p>\n<br />\n<p>\n\t<h2>Sterowanie dotykowe (telefon)</h2>\n\t<table>\n\t\t<tr><th>Poruszanie się</th><td>Przeciąganie jednym palcem po ekranie</td></tr>\n\t\t<tr><th>Zbliżenie i oddalenie</th><td>Uszczypnięcie dwoma palcami</td></tr>\n\t\t<tr><th>Obrót</th><td>Przeciąganie palca po ekranie jednocześnie trzymając mapę drugim palcem</td></tr>\n\t\t<tr><th>Pochylenie</th><td>Przeciąganie dwoma palcami po ekranie w pionie</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\nTa mapa została wygenerowana z &#9829; za pomocą <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version}</p>\n",
+        "title": "Informacje"
+    },
+    "language": {
+        "title": "Język"
+    },
+    "lighting": {
+        "ambientLight": "Światło otoczenia",
+        "dayNightSwitch": {
+            "tooltip": "Dzień/Noc"
+        },
+        "sunlight": "Światło słoneczne",
+        "title": "Oświetlenie"
+    },
+    "maps": {
+        "button": "Mapy",
+        "title": "Mapy",
+        "tooltip": "Lista map"
+    },
+    "markers": {
+        "button": "Znaczniki",
+        "followPlayerTitle": "Śledzenie gracza",
+        "marker": "znacznik | znaczniki",
+        "markerSet": "zbiór znaczników | zbiory znaczników",
+        "searchPlaceholder": "Wyszukaj...",
+        "title": "Znaczniki",
+        "tooltip": "Lista znaczników"
+    },
+    "menu": {
+        "title": "Menu",
+        "tooltip": "Menu"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Gracze",
+        "tooltip": "Lista graczy"
+    },
+    "renderDistance": {
+        "hiresLayer": "Warstwa wysokiej rozdzielczości",
+        "lowersLayer": "Warstwa niskiej rozdzielczości",
+        "title": "Odległość renderowania"
+    },
+    "resetAllSettings": {
+        "button": "Przywróć ustawienia domyślne"
+    },
+    "resetCamera": {
+        "button": "Wyśrodkuj kamerę",
+        "tooltip": "Zresetuj pozycję kamery"
+    },
+    "resolution": {
+        "high": "Wysoka (SSAA x2)",
+        "low": "Niska (Skalowanie x0.5)",
+        "normal": "Normalna (Natywna x1)",
+        "title": "Rozdzielczość"
+    },
+    "screenshot": {
+        "button": "Wykonaj zrzut ekranu",
+        "clipboard": "Skopiuj do schowka",
+        "title": "Zrzut ekranu"
+    },
+    "settings": {
+        "button": "Ustawienia",
+        "title": "Ustawienia"
+    },
+    "theme": {
+        "contrast": "Wysoki kontrast",
+        "dark": "Tryb ciemny",
+        "default": "Domyślny (według ustawień systemowych)",
+        "light": "Tryb jasny",
+        "title": "Motyw"
+    },
+    "updateMap": {
+        "button": "Załaduj mapę ponownie",
+        "tooltip": "Wyczyść pamięć podręczną mapy"
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "blockTooltip": {
+        "block": "Bloque",
+        "chunk": "Chunk",
+        "light": {
+            "block": "Bloque",
+            "light": "Iluminación",
+            "sun": "Sol"
+        },
+        "position": "Posición",
+        "region": {
+            "file": "Archivo",
+            "region": "Región"
+        }
+    },
+    "compass": {
+        "tooltip": "Brújula / Norte"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Plano",
+            "tooltip": "Ortogonal / Visualización Plana"
+        },
+        "freeFlight": {
+            "button": "Vuelo libre",
+            "tooltip": "Vuelo libre / Modo espectador"
+        },
+        "perspective": {
+            "button": "Perspectiva",
+            "tooltip": "Vista en perspectiva"
+        },
+        "title": "Vista / Controles"
+    },
+    "debug": {
+        "button": "Debug"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Invertir Eje Y del Ratón",
+        "mouseSensitivity": "Sensibilidad de Ratón",
+        "title": "Controles de Vuelo Libre"
+    },
+    "goFullscreen": {
+        "button": "Pantalla Completa"
+    },
+    "info": {
+        "button": "Información",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Control con ratón:</h2>\n\t<table>\n\t\t<tr><th>movimiento</th><td><kbd>clic izquierdo</kbd> + arrastrar</td></tr>\n\t\t<tr><th>zoom</th><td><kbd>rueda del ratón</kbd> (desplazar)</td></tr>\n\t\t<tr><th>rotar / inclinar</th><td><kbd>clic derecho</kbd> + arrastrar</td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Control con teclado:</h2>\n\t<table>\n\t\t<tr><th>movimiento</th><td><kbd>wasd</kbd> / <kbd>flechas de desplazamiento</kbd></td></tr>\n\t\t<tr><th>zoom</th><td>Pad numérico: <kbd>+</kbd>/<kbd>-</kbd> ó <kbd>Insertar</kbd>/<kbd>Inicio</kbd></td></tr>\n\t\t<tr><th>rotar / inclinar</th><td><kbd>Alt izquierdo</kbd> + <kbd>wasd</kbd> / <kbd>flechas de desplazamiento</kbd> ó <kbd>Supr</kbd>/<kbd>Fin</kbd>/<kbd>Re pág</kbd>/<kbd>Av Pág</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Control con panel táctil:</h2>\n\t<table>\n\t\t<tr><th>movimiento</th><td>pulsa + arrastrar</td></tr>\n\t\t<tr><th>zoom</th><td>pulsa con dos dedos + junta</td></tr>\n\t\t<tr><th>rotar / inclinar</th><td>pulsa con dos dedos + rotar / desliza arriba/abajo</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\tEste mapa ha sido generado con &#9829; usando <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version}\n</p>\n",
+        "title": "Información"
+    },
+    "language": {
+        "title": "Idioma"
+    },
+    "lighting": {
+        "ambientLight": "Luz Ambiental",
+        "dayNightSwitch": {
+            "tooltip": "Día/Noche"
+        },
+        "sunlight": "Luz de Día",
+        "title": "Iluminación"
+    },
+    "maps": {
+        "button": "Mapas",
+        "title": "Mapas",
+        "tooltip": "Lista de mapas"
+    },
+    "markers": {
+        "button": "Marcadores",
+        "followPlayerTitle": "Seguir Jugador",
+        "marker": "marcador | marcadores",
+        "markerSet": "Conjunto de Marcadores | Conjuntos de Marcadores",
+        "searchPlaceholder": "Buscar...",
+        "title": "Marcadores",
+        "tooltip": "Lista de marcadores"
+    },
+    "menu": {
+        "title": "Menú",
+        "tooltip": "Menú"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Jugadores",
+        "tooltip": "Lista de Jugadores"
+    },
+    "renderDistance": {
+        "hiresLayer": "Capa de Alta Resolución",
+        "lowersLayer": "Capa de Baja Resolución",
+        "title": "Distancia de Renderizado"
+    },
+    "resetAllSettings": {
+        "button": "Restaurar todo los ajustes"
+    },
+    "resetCamera": {
+        "button": "Restablecer Cámara",
+        "tooltip": "Restablecer Cámara y Posición"
+    },
+    "resolution": {
+        "high": "Alta (SSAA x2)",
+        "low": "Baja (Ampliada x0.5)",
+        "normal": "Normal (Nativa x1)",
+        "title": "Resolución"
+    },
+    "screenshot": {
+        "button": "Tomar Captura de Pantalla",
+        "clipboard": "Copiar al Portapapeles",
+        "title": "Captura de Pantalla"
+    },
+    "settings": {
+        "button": "Ajustes",
+        "title": "Ajustes"
+    },
+    "theme": {
+        "dark": "Oscuro",
+        "default": "Predeterminado (Sistema/Navegador)",
+        "light": "Claro",
+        "title": "Tema"
+    },
+    "updateMap": {
+        "button": "Actualizar Mapa",
+        "tooltip": "Limpiar Cache"
+    }
+}

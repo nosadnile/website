@@ -1,0 +1,128 @@
+{
+    "blockTooltip": {
+        "block": "Блок",
+        "chunk": "Чанк",
+        "light": {
+            "block": "Блоками",
+            "light": "Освещение",
+            "sun": "Неба"
+        },
+        "position": "Координаты",
+        "region": {
+            "file": "Файл",
+            "region": "Регион"
+        }
+    },
+    "compass": {
+        "tooltip": "Компас / Указать на север"
+    },
+    "controls": {
+        "flatView": {
+            "button": "Ортографическая проекция",
+            "tooltip": "Плоская / Ортографическая проекция"
+        },
+        "freeFlight": {
+            "button": "Свободный полёт",
+            "tooltip": "Свободный полёт / Режим наблюдателя"
+        },
+        "perspective": {
+            "button": "Перспективная проекция",
+            "tooltip": "3D / Перспективная проекция"
+        },
+        "title": "Вид / Управление"
+    },
+    "debug": {
+        "button": "Отладка"
+    },
+    "freeFlightControls": {
+        "invertMouseY": "Инвертировать мышь по Y",
+        "mouseSensitivity": "Чувствительность мыши",
+        "title": "Управление свободным полётом"
+    },
+    "goFullscreen": {
+        "button": "Полноэкранный режим"
+    },
+    "info": {
+        "button": "Информация",
+        "content": "\n<img src=\"assets/logo.png\" style=\"display: block; width: 40%; margin: 3em auto; border-radius: 50%\">\n<p>\n\t<h2>Управление мышью:</h2>\n\t<table>\n\t\t<tr><th>перемещение</th><td>зажать <kbd>ЛКМ</kbd></td></tr>\n\t\t<tr><th>приближение</th><td>прокрутить <kbd>колесо</kbd></td></tr>\n\t\t<tr><th>поворот / наклон</th><td>зажать <kbd>ПКМ</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Управление клавиатурой:</h2>\n\t<table>\n\t\t<tr><th>перемещение</th><td><kbd>WASD</kbd> / <kbd>стрелки</kbd></td></tr>\n\t\t<tr><th>приближение</th><td>Нампад: <kbd>+</kbd>/<kbd>-</kbd> или <kbd>Ins</kbd>/<kbd>Home</kbd></td></tr>\n\t\t<tr><th>поворот / наклон</th><td><kbd>Левый Alt</kbd> + <kbd>WASD</kbd> / <kbd>стрелки</kbd> или <kbd>Delete</kbd>/<kbd>End</kbd>/<kbd>Page Up</kbd>/<kbd>Page Down</kbd></td></tr>\n\t</table>\n</p>\n<p>\n\t<h2>Управление сенсором:</h2>\n\t<table>\n\t\t<tr><th>перемещение</th><td>коснуться и переместить</td></tr>\n\t\t<tr><th>приближение</th><td>коснуться двумя пальцами и ущипнуть</td></tr>\n\t\t<tr><th>поворот / наклон</th><td>коснуться двумя пальцами и повернуть / переместить вверх/вниз</td></tr>\n\t</table>\n</p>\n<br><hr>\n<p class=\"info-footer\">\n\tЭта карта сгенерирована с &#9829; <a href=\"https://bluecolo.red/bluemap\">BlueMap</a> {version}\n</p>\n",
+        "title": "Информация"
+    },
+    "language": {
+        "title": "Язык"
+    },
+    "lighting": {
+        "ambientLight": "Свет от блоков",
+        "dayNightSwitch": {
+            "tooltip": "День/Ночь"
+        },
+        "sunlight": "Солнечный свет",
+        "title": "Освещение"
+    },
+    "mapControls": {
+        "showZoomButtons": "Показать кнопки масштаба",
+        "title": "Управление картой"
+    },
+    "maps": {
+        "button": "Карта",
+        "title": "Карта",
+        "tooltip": "Список карт"
+    },
+    "markers": {
+        "button": "Маркеры",
+        "followPlayerTitle": "Следовать за игроком",
+        "marker": "маркер | маркеры",
+        "markerSet": "набор маркеров | наборы маркеров",
+        "searchPlaceholder": "Поиск...",
+        "title": "Маркеры",
+        "tooltip": "Список маркеров"
+    },
+    "menu": {
+        "title": "Меню",
+        "tooltip": "Меню"
+    },
+    "pageTitle": "BlueMap - {map}",
+    "players": {
+        "title": "Игроки",
+        "tooltip": "Список игроков"
+    },
+    "renderDistance": {
+        "hiresLayer": "Высокой чёткости",
+        "loadHiresWhileMoving": "Выс. чёткость при движении",
+        "lowersLayer": "Низкой чёткости",
+        "off": "Откл",
+        "title": "Дальность прорисовки"
+    },
+    "resetAllSettings": {
+        "button": "Сбросить все настройки"
+    },
+    "resetCamera": {
+        "button": "Сброс настроек камеры",
+        "tooltip": "Сбросить настройки и положение камеры"
+    },
+    "resolution": {
+        "high": "Высокое (SSAA x2)",
+        "low": "Низкое (Апскейл x0.5)",
+        "normal": "Нормальное (Нативное x1)",
+        "title": "Разрешение"
+    },
+    "screenshot": {
+        "button": "Сделать Скриншот",
+        "clipboard": "Скопировать в буфер обмена",
+        "title": "Скриншот"
+    },
+    "settings": {
+        "button": "Настройки",
+        "title": "Настройки"
+    },
+    "theme": {
+        "contrast": "Контрастная",
+        "dark": "Тёмная",
+        "default": "По умолчанию (Системная/Браузера)",
+        "light": "Светлая",
+        "title": "Тема"
+    },
+    "updateMap": {
+        "button": "Обновить карту",
+        "tooltip": "Очистить кэш карты"
+    }
+}
