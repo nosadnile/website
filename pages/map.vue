@@ -13,15 +13,9 @@
 </template>
 
 <script lang="ts">
-import MapViewer from "@/components/MapViewer.vue";
-
 export default {
     name: "Map",
-
-    components: {
-        MapViewer,
-    },
-
+    
     mounted() {
         const container = this.$refs.container as HTMLDivElement;
         

@@ -93,7 +93,7 @@
         "title": "Menu",
         "tooltip": "Menu"
     },
-    "pageTitle": "BlueMap - {map}",
+    "pageTitle": "Map - {map}",
     "players": {
         "title": "Players",
         "tooltip": "Player-List"
